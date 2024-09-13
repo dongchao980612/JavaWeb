@@ -3,25 +3,25 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
+  <!--  hello-->
   <servlet>
     <servlet-name>hello</servlet-name>
     <servlet-class>com.example.servlet.HelloServlet</servlet-class>
   </servlet>
 
   <servlet-mapping>
-    <servlet-name>hello</servlet-name>
-    <url-pattern>/hello</url-pattern>
+    <servlet-url>hello</servlet-url>
+    <servlet-pattern>/hello</servlet-pattern>
   </servlet-mapping>
 
-  <!--  404-->
+  <!--  getc-->
   <servlet>
-    <servlet-name>error</servlet-name>
-    <servlet-class>com.example.servlet.ErrorServlet</servlet-class>
+    <servlet-name>getc</servlet-name>
+    <servlet-class>com.example.servlet.GetServlet</servlet-class>
   </servlet>
 
   <servlet-mapping>
-    <servlet-name>error</servlet-name>
-    <url-pattern>/*</url-pattern>
+    <servlet-name>getc</servlet-name>
+    <url-pattern>/getc</url-pattern>
   </servlet-mapping>
-
 </web-app>
