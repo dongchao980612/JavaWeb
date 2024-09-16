@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="463b695e-fa7f-4866-b01f-e95160c27d94" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet-02/src/main/java/com/example/servlet/GetContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet-02/src/main/java/com/example/servlet/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet-02/src/main/java/com/example/servlet/PropertiesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet-02/src/main/java/com/example/servlet/ServletDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet-02/src/main/java/com/example/servlet/ServletDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet-02/src/main/java/com/example/servlet/ServletDemo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet-02/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet-02/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servlet-02/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet-01/src/main/java/com/example/servlet/ErrorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet-01/src/main/java/com/example/servlet/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet-01/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet-01/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\Program Files\Apache Software Foundation\apache-maven-3.9.9" />
+        <option name="localRepository" value="D:\Program Files\Apache Software Foundation\apache-maven-3.9.9\maven-repo" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="D:\Program Files\Apache Software Foundation\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2m91VFXG9hNN6N5bqnRGjkWutVA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.javaweb-02-servlet [clean].executor": "Run",
+    "Maven.javaweb-02-servlet [package].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Smart Tomcat.Tomcat9.executor": "Run",
+    "Smart Tomcat.Tomcat: servlet-02.executor": "Run",
+    "Smart Tomcat.servlet01.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dongchao/Desktop/JavaWeb/javaweb-02-servlet/servlet-01/src/main/webapp",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Smart Tomcat.Tomcat: servlet-02">
+    <configuration name="Tomcat: servlet-01" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="C:\Users\dongchao\.SmartTomcat\javaweb-02-servlet\servlet-01" />
+      <option name="contextPath" value="/" />
+      <option name="docBase" value="C:\Users\dongchao\Desktop\JavaWeb\javaweb-02-servlet\servlet-01\src\main\webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.94" />
+          <option name="path" value="D:/Program Files/Apache Software Foundation/Tomcat 9.0" />
+          <option name="version" value="9.0.94.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="servlet-01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat: servlet-02" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="" />
+      <option name="contextPath" value="/" />
+      <option name="docBase" value="$PROJECT_DIR$/servlet-02/src/main/webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.94" />
+          <option name="path" value="D:/Program Files/Apache Software Foundation/Tomcat 9.0" />
+          <option name="version" value="9.0.94.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="servlet-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Smart Tomcat.Tomcat: servlet-02" />
+      <item itemvalue="Smart Tomcat.Tomcat: servlet-01" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="463b695e-fa7f-4866-b01f-e95160c27d94" name="更改" comment="" />
+      <created>1726474003830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726474003830</updated>
+    </task>
+    <servers />
+  </component>
+</project>
