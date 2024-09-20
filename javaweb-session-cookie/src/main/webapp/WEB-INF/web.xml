@@ -1,0 +1,64 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+    <servlet-name>CookieDemo1</servlet-name>
+    <servlet-class>com.example.servlet.CookieDemo1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CookieDemo1</servlet-name>
+    <url-pattern>/c1</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>CookieDemo2</servlet-name>
+    <servlet-class>com.example.servlet.CookieDemo2</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CookieDemo2</servlet-name>
+    <url-pattern>/c2</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>CookieDemo3</servlet-name>
+    <servlet-class>com.example.servlet.CookieDemo3</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CookieDemo3</servlet-name>
+    <url-pattern>/c3</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>SessionDemo01</servlet-name>
+    <servlet-class>com.example.servlet.SessionDemo01</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>SessionDemo01</servlet-name>
+    <url-pattern>/s1</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>SessionDemo02</servlet-name>
+    <servlet-class>com.example.servlet.SessionDemo02</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>SessionDemo02</servlet-name>
+    <url-pattern>/s2</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>SessionDemo03</servlet-name>
+    <servlet-class>com.example.servlet.SessionDemo03</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>SessionDemo03</servlet-name>
+    <url-pattern>/s3</url-pattern>
+  </servlet-mapping>
+
+  <session-config>
+    <session-timeout>1</session-timeout>
+  </session-config>
+</web-app>
